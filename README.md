@@ -1,4 +1,4 @@
-![image](https://github.com/utchchhwas/raster-graphics/assets/49171337/46772015-d184-4ad2-8699-2285f6a2268e)### Raster Graphics Pipeline
+# Raster Graphics Pipeline
 A rasterization pipeline built from scratch using `C++` incorporating the following stages:
 - Modeling Transformation
 - View Transformation
